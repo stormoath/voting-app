@@ -38,6 +38,9 @@
         "@formatOnSave": true,
         "@formatter": "gofmt -w \"$file\""
     },
+    "installer": {
+        "@auto": true
+    },
     "instance": {
         "@automaticShutdown": "30"
     },
